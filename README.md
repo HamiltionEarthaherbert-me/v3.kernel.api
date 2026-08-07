@@ -1,4 +1,3 @@
-# v3.kernel.api// 同步 ID: d3f82700 @ Mon Jun 22 16:43:01 UTC 2026
 // 同步 ID: 2a85b388 @ Wed Jul  1 12:17:44 UTC 2026
 // 同步 ID: ba61b329 @ Thu Jul  2 11:07:46 UTC 2026
 // 同步 ID: f1e1dafd @ Tue Jul  7 11:14:38 UTC 2026
@@ -28,3 +27,4 @@
 // 同步 ID: 050d3d9b @ Wed Aug  5 08:16:38 UTC 2026
 // 同步 ID: 78ab0ed4 @ Wed Aug  5 16:09:34 UTC 2026
 // 同步 ID: ef10d652 @ Fri Aug  7 01:00:32 UTC 2026
+// 同步 ID: 315a998c @ Fri Aug  7 13:10:44 UTC 2026
